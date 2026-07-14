@@ -20,10 +20,6 @@
   - [Dataset Download](#dataset-download)
 - [Using GerNA-Bind](#using-gerna-bind)
   - [Model Training](#model-training)
-  - [CheckPoints](#checkpoints)
-  - [RNA Small Molecule Screening](#rna-small-molecule-screening)
-  - [RNA Target Binding Site Prediction](#rna-target-binding-site-prediction)
-<!-- - [Citation](#citation) -->
 
 ## Installation
 ### If you prefer a faster setup, you can use the provided gernabind.yaml file:
