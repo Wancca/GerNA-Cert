@@ -98,10 +98,6 @@ We provide the training scripts that you can train the model yourself.
 ```bash
 python train_model.py --dataset Robin --split_method random --model_output_path Model/
 ```
-You can also evaluate the model using the testing script:
-```bash
-python test_model.py --dataset Robin --split_method random --model_path Model/Robin_random.pth --cuda 0
-```
 
 ### CheckPoints
 Download the model weights and put into the "Model" folder, which contains the model checkpoint. You can direct run the scripts in ./Model folder to ger the model weights.
