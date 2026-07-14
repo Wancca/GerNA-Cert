@@ -55,12 +55,6 @@ pip install scikit-learn==1.2.2
 pip install prody==2.4.1
 ```
 
-<!--```bash
-if you have problem like this error information: ImportError: cannot import name 'packaging' from 'pkg_resources' (/xcfhome/ypxia/anaconda3/envs/gernabind/lib/python3.8/site-packages/pkg_resources/__init__.py) with torchdrug, you can try this command below:
-pip install --upgrade packaging
-pip install --upgrade pip setuptools
-```
--->
 
 ## Data Preparation
 We will update the usage of building datasets and how to build your own datasets for training soon.
