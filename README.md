@@ -69,7 +69,7 @@ We use [RhoFold+](https://github.com/ml4bio/RhoFold) to generate RNA 3D Structur
 ### Data Processing
 You can process data through the following steps:
 ```bash
-python data_utils/process_data.py --fasta example/a.fasta --smile example/mol.txt --RhoFold_path your_RhoFold_project_path --RhoFold_weight RhoFold_model_weight_path
+python data_utils/process_data.py 
 ```
 And the processed data will be saved in ./data folder as "new_data.pkl" file.
 
