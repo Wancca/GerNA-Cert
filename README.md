@@ -87,12 +87,17 @@ Simply run:
 ```bash
 bash download_dataset.sh
 ```
+preprocess data：
+```bash
+bash convert_to_fast_datas.py
+```
+
 
 ## Using GerNA-Bind
 ### Model Training
 We provide the training scripts that you can train the model yourself.
 ```bash
-python train_model.py --dataset Robin --split_method random --model_output_path Model/
+python train_model.py 
 ```
 
 ## Acknowledgements
