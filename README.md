@@ -34,7 +34,7 @@ conda activate gernabind
 ```bash
 # Create a conda environment
 conda create -y -n gernabind python=3.8
-conda activate gernabind
+conda activate gerncert
 
 #conda install pytorch==2.0.1 torchvision==0.15.2 pytorch-cuda=12.2 -c pytorch -c nvidia
 pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0
