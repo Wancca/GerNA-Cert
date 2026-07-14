@@ -1,4 +1,4 @@
-name: gernabind
+name: gernacert
 channels:
   - huggingface
   - conda-forge
